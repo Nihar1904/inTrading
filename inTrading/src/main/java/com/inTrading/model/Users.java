@@ -1,6 +1,5 @@
 package com.inTrading.model;
-//        CreateDatetime      DateTime
-//        UpdateDatetime      DateTime
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
